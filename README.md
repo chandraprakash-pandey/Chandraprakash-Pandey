@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandraprakash-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="chandraprakash-pandey" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandraprakash-pandey" alt="chandraprakash-pandey" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, C++.**
+
+- 🔭 I’m currently a Computer Engineering student
+
+- 🌱 I’m currently learning **Development, C++.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chandraprakash-Pandey](https://github.com/Chandraprakash-Pandey)
 
