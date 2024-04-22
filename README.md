@@ -1,4 +1,3 @@
-<img width="100%" height="200px" src="https://media1.tenor.com/m/_i9AUV0dv_0AAAAC/welcome-banner.gif">
 <h1 align="center">Hi 👋, I'm Chandraprakash Pandey</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
