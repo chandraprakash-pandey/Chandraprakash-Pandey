@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently a Computer Engineering student
+- 🔭 I’m a Computer Engineering student
 
 - 🌱 I’m currently learning **Development, C++.**
 
