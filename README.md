@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/qV9QZcasa-QAAAAd/welcome.gif" alt="welcome">  
+<img src="https://media1.tenor.com/m/qV9QZcasa-QAAAAd/welcome.gif" alt="welcome"  width="100%" height="250px">  
 
 <h1 align="center">Hi 👋, I'm Chandraprakash Pandey</h1>
 <h3 align="center">A passionate Web developer from India.</h3>
