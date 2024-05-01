@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **cp.o.pandey@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Chandraprakash/AppData/Local/Microsoft/Windows/INetCache/IE/AXZ6MU1U/chandrapakash-resume[1].pdf](file:///C:/Users/Chandraprakash/AppData/Local/Microsoft/Windows/INetCache/IE/AXZ6MU1U/chandrapakash-resume[1].pdf)
+- 📄 Know about my experiences [chandraprakash-resume.pdf](chandraprakash-resume.pdf)
 
 - ⚡ Fun fact **I like Dogs 🐶**
 
