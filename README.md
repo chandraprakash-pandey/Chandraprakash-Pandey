@@ -1,21 +1,10 @@
-<img src="https://media1.tenor.com/m/qV9QZcasa-QAAAAd/welcome.gif" alt="welcome"  width="100%" height="250px">  
-
 <h1 align="center">Hi 👋, I'm Chandraprakash Pandey</h1>
-<h3 align="center">A passionate Web developer from India.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandraprakash-pandey" alt="chandraprakash-pandey" /></a> </p>
-
-- 🌱 I’m currently learning **JavaScript, C++.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/chandraprakash-pandey](https://github.com/chandraprakash-pandey)
-
-- 💬 Ask me about **HTML CSS JavaScript**
+<h3 align="center">A passionate Web developer.</h3>
 
 - 📫 How to reach me **cp.o.pandey@gmail.com**
 
 - 📄 Know about my experiences [chandraprakash-resume.pdf](chandraprakash-resume.pdf)
 
-- ⚡ Fun fact **I like Dogs 🐶**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
