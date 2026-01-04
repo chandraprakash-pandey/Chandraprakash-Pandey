@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **cp.o.pandey@gmail.com**
 
-- 📄 Know about my experiences [chandraprakash-resume.pdf](chandraprakash-resume.pdf)
+- 📄 Know about my experiences [chandraprakash-resume.pdf](Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
